@@ -12,7 +12,7 @@
 
     figureNodes[i].insertAdjacentElement('afterend', adsNode);
     
-    let titleNode = document.querySelector("h2.post-title");
+    let titleNode = document.querySelector("h3.post-title");
     
     
     let adsNode1 = document.createElement("div");
