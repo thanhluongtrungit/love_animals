@@ -4,9 +4,9 @@
   for (let i = 0; i < figureNodes.length; i++) {
   
     let adsNode = document.createElement("div");
-  	adsNode.innerHTML = "<div id='M843947ScriptRootC1385837'></div>"
+  	adsNode.innerHTML = "<div id='M843947ScriptRootC1385941'></div>"
     let script = document.createElement("script");
-  	script.setAttribute('src','https://jsc.adskeeper.com/l/o/lovepumi.store.1385837.js');
+  	script.setAttribute('src','https://jsc.adskeeper.com/l/o/lovepumi.store.1385941.js');
   	script.setAttribute('async','async');
     adsNode.append(script)
 
